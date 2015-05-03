@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="51Degrees.config">
+      <publishTime>04/26/2015 16:22:41</publishTime>
+    </File>
+    <File Include="AboutUs.aspx">
+      <publishTime>04/24/2015 19:18:13</publishTime>
+    </File>
+    <File Include="Admin/AboutUs.aspx">
+      <publishTime>04/24/2015 04:47:38</publishTime>
+    </File>
+    <File Include="Admin/Admin.Master">
+      <publishTime>04/26/2015 23:11:34</publishTime>
+    </File>
+    <File Include="Admin/AdminDashBoard.aspx">
+      <publishTime>04/24/2015 01:17:40</publishTime>
+    </File>
+    <File Include="Admin/AdminHomePage.aspx">
+      <publishTime>04/20/2015 15:19:01</publishTime>
+    </File>
+    <File Include="Admin/AdminUserApproval.aspx">
+      <publishTime>04/24/2015 02:30:15</publishTime>
+    </File>
+    <File Include="Admin/SearchProject.aspx">
+      <publishTime>04/24/2015 14:25:54</publishTime>
+    </File>
+    <File Include="Admin/SQL Queries.txt">
+      <publishTime>04/27/2015 03:47:37</publishTime>
+    </File>
+    <File Include="App_Data/Cache/1000/0/L01vY/mlsZS/9SZXN/vdXJj/ZXMva/W1hZ2/VzL21/pbWFn/ZS5qc/Gc=.jpg">
+      <publishTime>04/26/2015 20:05:06</publishTime>
+    </File>
+    <File Include="App_Data/Cache/960/0/L01vY/mlsZS/9SZXN/vdXJj/ZXMva/W1hZ2/VzL21/pbWFn/ZS5qc/Gc=.jpg">
+      <publishTime>04/26/2015 20:00:43</publishTime>
+    </File>
+    <File Include="App_Data/Cache/960/0/L01vY/mlsZS/9SZXN/vdXJj/ZXMva/W1hZ2/VzL21/vYmls/ZUltY/WdlLm/pwZw=/=.jpg">
+      <publishTime>04/26/2015 19:56:49</publishTime>
+    </File>
+    <File Include="App_Data/Cache/960/0/L1Jlc/291cm/Nlcy9/pbWFn/ZXMvY/mdpbW/FnZS5/qcGc=.jpg">
+      <publishTime>04/26/2015 16:54:28</publishTime>
+    </File>
+    <File Include="bin/FiftyOne.Foundation.dll">
+      <publishTime>04/26/2015 16:22:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>04/26/2015 22:36:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/26/2015 16:22:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Net20.dll">
+      <publishTime>04/18/2015 13:24:49</publishTime>
+    </File>
+    <File Include="bin/Thesis-project Repository.dll">
+      <publishTime>05/03/2015 13:34:20</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>04/24/2015 14:51:22</publishTime>
+    </File>
+    <File Include="bootstrap/css/RemoveBorder.css">
+      <publishTime>04/24/2015 13:06:48</publishTime>
+    </File>
+    <File Include="bootstrap/css/sticky-footer-navbar.css">
+      <publishTime>04/24/2015 14:46:23</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>04/24/2015 22:14:43</publishTime>
+    </File>
+    <File Include="Completed Use Cases.txt">
+      <publishTime>04/24/2015 16:29:57</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="css/forms.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/gallery.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/homepage.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/layout.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/navi.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/portfolio.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="css/tables.css">
+      <publishTime>04/10/2015 17:22:32</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/24/2015 19:04:55</publishTime>
+    </File>
+    <File Include="Dll/Newtonsoft.Json.Net20.dll">
+      <publishTime>04/18/2015 13:24:49</publishTime>
+    </File>
+    <File Include="DownloadFile.aspx">
+      <publishTime>04/10/2015 17:22:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/26/2015 16:40:40</publishTime>
+    </File>
+    <File Include="Icon.png">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="includes/css/bootstrap-glyphicons.css">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/css/styles.css">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/fonts/glyphiconshalflings-regular.eot">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/fonts/glyphiconshalflings-regular.otf">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/fonts/glyphiconshalflings-regular.svg">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/fonts/glyphiconshalflings-regular.ttf">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/fonts/glyphiconshalflings-regular.woff">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/js/jquery-1.8.2.min.js">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/js/modernizr-2.6.2.min.js">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="includes/js/script.js">
+      <publishTime>04/23/2015 20:34:53</publishTime>
+    </File>
+    <File Include="js/exporting.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="js/highcharts-more.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="js/highcharts.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="js/jquery-1.8.3.min.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="js/TweenLite.min.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="js/TweenMax.min.js">
+      <publishTime>04/17/2015 20:31:37</publishTime>
+    </File>
+    <File Include="LoginDS.xsc">
+      <publishTime>04/10/2015 15:23:44</publishTime>
+    </File>
+    <File Include="LoginDS.xss">
+      <publishTime>04/10/2015 15:23:44</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>04/23/2015 21:04:49</publishTime>
+    </File>
+    <File Include="MainMaster.Master">
+      <publishTime>05/03/2015 13:30:16</publishTime>
+    </File>
+    <File Include="Mobile/Admin/AdminDashBoard.aspx">
+      <publishTime>04/27/2015 03:29:00</publishTime>
+    </File>
+    <File Include="Mobile/Admin/AdminHomePage.aspx">
+      <publishTime>04/26/2015 19:12:33</publishTime>
+    </File>
+    <File Include="Mobile/Admin/AdminUserApproval.aspx">
+      <publishTime>04/26/2015 19:43:34</publishTime>
+    </File>
+    <File Include="Mobile/Admin/Authentication.aspx">
+      <publishTime>04/27/2015 05:36:56</publishTime>
+    </File>
+    <File Include="Mobile/Admin/MobileAdmin.Master">
+      <publishTime>04/27/2015 03:57:54</publishTime>
+    </File>
+    <File Include="Mobile/Admin/SearchProject.aspx">
+      <publishTime>04/26/2015 19:02:31</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/css/bootstrap.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/css/bootstrap.min.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/css/RemoveBorder.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/css/sticky-footer-navbar.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/js/bootstrap.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/bootstrap/js/bootstrap.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/ChangePassword.aspx">
+      <publishTime>04/26/2015 16:38:43</publishTime>
+    </File>
+    <File Include="Mobile/css/forms.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/gallery.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/homepage.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/layout.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/navi.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/portfolio.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/css/tables.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Default.aspx">
+      <publishTime>04/26/2015 16:37:34</publishTime>
+    </File>
+    <File Include="Mobile/includes/css/bootstrap-glyphicons.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/css/styles.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/fonts/glyphiconshalflings-regular.eot">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/fonts/glyphiconshalflings-regular.otf">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/fonts/glyphiconshalflings-regular.svg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/fonts/glyphiconshalflings-regular.ttf">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/fonts/glyphiconshalflings-regular.woff">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/js/jquery-1.8.2.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/js/modernizr-2.6.2.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/includes/js/script.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/exporting.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/highcharts-more.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/highcharts.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/jquery-1.8.3.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/TweenLite.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/js/TweenMax.min.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Logout.aspx">
+      <publishTime>04/26/2015 18:18:22</publishTime>
+    </File>
+    <File Include="Mobile/Mobile.Master">
+      <publishTime>05/03/2015 13:33:35</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/Authentication.aspx">
+      <publishTime>04/27/2015 06:26:57</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/DeleteAccount.aspx">
+      <publishTime>04/26/2015 20:15:33</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/MobileProfessor.Master">
+      <publishTime>04/27/2015 06:27:36</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/ProfessorHome.aspx">
+      <publishTime>04/26/2015 23:11:35</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/ProjectList.aspx">
+      <publishTime>04/26/2015 20:25:08</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/SearchProjects.aspx">
+      <publishTime>04/26/2015 20:38:53</publishTime>
+    </File>
+    <File Include="Mobile/ProfessorFiles/UpdateProfessorProfile.aspx">
+      <publishTime>04/26/2015 20:23:12</publishTime>
+    </File>
+    <File Include="Mobile/Resources/css/bootstrap-glyphicons.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/css/bootstrap.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/css/bootstrap.min.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/css/index.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/css/styles.css">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/amitesh.jpeg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/bgimage.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/harshit.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/HomePageBackground.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/image.jpg">
+      <publishTime>04/26/2015 20:00:10</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/image2.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/kaveh.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/library.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/logo.jpg">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/mimage.jpg">
+      <publishTime>04/26/2015 20:00:28</publishTime>
+    </File>
+    <File Include="Mobile/Resources/images/mobileImage.jpg">
+      <publishTime>04/26/2015 19:56:25</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/bootstrap.js">
+      <publishTime>04/26/2015 17:38:32</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/bootstrap.min.js">
+      <publishTime>04/26/2015 17:38:33</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/index.js">
+      <publishTime>04/26/2015 17:38:33</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/jquery-1.8.2.min.js">
+      <publishTime>04/26/2015 17:38:33</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/jquery.min.js">
+      <publishTime>04/26/2015 17:38:33</publishTime>
+    </File>
+    <File Include="Mobile/Resources/js/modernizr-2.6.2.min.js">
+      <publishTime>04/26/2015 17:38:33</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/CheckApprovalStatus.aspx">
+      <publishTime>04/27/2015 08:12:01</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/DeleteAccount.aspx">
+      <publishTime>04/27/2015 08:13:48</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/MobileStudent.Master">
+      <publishTime>04/27/2015 08:17:09</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/SearchProjects.aspx">
+      <publishTime>04/27/2015 08:15:17</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/StudentHomePage.aspx">
+      <publishTime>04/27/2015 08:16:36</publishTime>
+    </File>
+    <File Include="Mobile/StudentFiles/UpdateStudentProfile.aspx">
+      <publishTime>04/27/2015 08:18:07</publishTime>
+    </File>
+    <File Include="Mobile/Viewer/DeleteAccount.aspx">
+      <publishTime>04/27/2015 08:30:49</publishTime>
+    </File>
+    <File Include="Mobile/Viewer/MobileViewer.Master">
+      <publishTime>04/27/2015 08:28:42</publishTime>
+    </File>
+    <File Include="Mobile/Viewer/SearchProjects.aspx">
+      <publishTime>04/27/2015 08:30:04</publishTime>
+    </File>
+    <File Include="Mobile/Viewer/UpdateViewerProfile.aspx">
+      <publishTime>04/27/2015 08:33:05</publishTime>
+    </File>
+    <File Include="Mobile/Viewer/ViewerHome.aspx">
+      <publishTime>04/27/2015 08:31:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="ProfessorFiles/AboutUs.aspx">
+      <publishTime>04/24/2015 14:15:32</publishTime>
+    </File>
+    <File Include="ProfessorFiles/DeleteAccount.aspx">
+      <publishTime>04/24/2015 04:08:30</publishTime>
+    </File>
+    <File Include="ProfessorFiles/MoreProjectDetails.aspx">
+      <publishTime>04/24/2015 14:43:59</publishTime>
+    </File>
+    <File Include="ProfessorFiles/Professor.Master">
+      <publishTime>04/26/2015 00:05:14</publishTime>
+    </File>
+    <File Include="ProfessorFiles/ProfessorHome.aspx">
+      <publishTime>04/26/2015 20:35:16</publishTime>
+    </File>
+    <File Include="ProfessorFiles/ProjectList.aspx">
+      <publishTime>04/26/2015 20:25:13</publishTime>
+    </File>
+    <File Include="ProfessorFiles/SearchProjects.aspx">
+      <publishTime>04/24/2015 14:25:07</publishTime>
+    </File>
+    <File Include="ProfessorFiles/UpdateProfessorProfile.aspx">
+      <publishTime>04/25/2015 13:19:55</publishTime>
+    </File>
+    <File Include="Properties/Settings.settings">
+      <publishTime>04/10/2015 17:22:30</publishTime>
+    </File>
+    <File Include="Resources/css/bootstrap-glyphicons.css">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/css/bootstrap.css">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/css/bootstrap.min.css">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/css/index.css">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/css/styles.css">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/images/amitesh.jpeg">
+      <publishTime>04/20/2015 01:48:38</publishTime>
+    </File>
+    <File Include="Resources/images/bgimage.jpg">
+      <publishTime>04/25/2015 13:19:39</publishTime>
+    </File>
+    <File Include="Resources/images/harshit.jpg">
+      <publishTime>04/20/2015 01:48:38</publishTime>
+    </File>
+    <File Include="Resources/images/HomePageBackground.jpg">
+      <publishTime>04/20/2015 01:48:38</publishTime>
+    </File>
+    <File Include="Resources/images/image.jpg">
+      <publishTime>04/24/2015 20:27:36</publishTime>
+    </File>
+    <File Include="Resources/images/image2.jpg">
+      <publishTime>04/25/2015 23:51:13</publishTime>
+    </File>
+    <File Include="Resources/images/kaveh.jpg">
+      <publishTime>04/20/2015 01:48:38</publishTime>
+    </File>
+    <File Include="Resources/images/library.jpg">
+      <publishTime>04/20/2015 01:48:38</publishTime>
+    </File>
+    <File Include="Resources/images/logo.jpg">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/js/bootstrap.js">
+      <publishTime>04/20/2015 15:19:02</publishTime>
+    </File>
+    <File Include="Resources/js/bootstrap.min.js">
+      <publishTime>04/20/2015 15:19:03</publishTime>
+    </File>
+    <File Include="Resources/js/index.js">
+      <publishTime>04/25/2015 13:19:56</publishTime>
+    </File>
+    <File Include="Resources/js/jquery-1.8.2.min.js">
+      <publishTime>04/20/2015 15:19:03</publishTime>
+    </File>
+    <File Include="Resources/js/jquery.min.js">
+      <publishTime>04/20/2015 15:19:03</publishTime>
+    </File>
+    <File Include="Resources/js/modernizr-2.6.2.min.js">
+      <publishTime>04/20/2015 15:19:03</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>05/03/2015 13:28:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>05/03/2015 13:28:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>05/03/2015 13:28:33</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>05/03/2015 13:28:41</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/configuration.svcinfo">
+      <publishTime>04/15/2015 01:55:11</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/configuration91.svcinfo">
+      <publishTime>04/15/2015 01:55:11</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/ISUSMS.wsdl">
+      <publishTime>04/15/2015 19:53:13</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/Reference.svcmap">
+      <publishTime>04/15/2015 01:55:11</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/Thesis_project_Repository.ServiceReference1.getCarriersResponse.datasource">
+      <publishTime>04/15/2015 01:55:13</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/Thesis_project_Repository.ServiceReference1.sendSMSISUResponse.datasource">
+      <publishTime>04/15/2015 01:55:12</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/Thesis_project_Repository.ServiceReference1.sendSMSResponse.datasource">
+      <publishTime>04/15/2015 01:55:12</publishTime>
+    </File>
+    <File Include="StudentFiles/AboutUs.aspx">
+      <publishTime>04/24/2015 14:16:19</publishTime>
+    </File>
+    <File Include="StudentFiles/CheckApprovalStatus.aspx">
+      <publishTime>04/25/2015 13:19:56</publishTime>
+    </File>
+    <File Include="StudentFiles/DeleteAccount.aspx">
+      <publishTime>04/24/2015 12:39:16</publishTime>
+    </File>
+    <File Include="StudentFiles/FinalProposal.aspx">
+      <publishTime>04/24/2015 16:24:34</publishTime>
+    </File>
+    <File Include="StudentFiles/PreliminaryProposal.aspx">
+      <publishTime>04/24/2015 20:19:57</publishTime>
+    </File>
+    <File Include="StudentFiles/SearchProjects.aspx">
+      <publishTime>04/24/2015 14:25:37</publishTime>
+    </File>
+    <File Include="StudentFiles/StudentHomePage.aspx">
+      <publishTime>04/10/2015 17:22:31</publishTime>
+    </File>
+    <File Include="StudentFiles/StudentMain.Master">
+      <publishTime>04/26/2015 00:05:18</publishTime>
+    </File>
+    <File Include="StudentFiles/Thesis.aspx">
+      <publishTime>04/25/2015 13:19:56</publishTime>
+    </File>
+    <File Include="StudentFiles/UpdateStudentProfile.aspx">
+      <publishTime>04/24/2015 13:21:58</publishTime>
+    </File>
+    <File Include="UserDS.xsc">
+      <publishTime>04/10/2015 15:23:47</publishTime>
+    </File>
+    <File Include="UserDS.xss">
+      <publishTime>04/10/2015 15:23:47</publishTime>
+    </File>
+    <File Include="VerificationLink.aspx">
+      <publishTime>04/11/2015 02:51:54</publishTime>
+    </File>
+    <File Include="Viewer/AboutUs.aspx">
+      <publishTime>04/24/2015 16:39:25</publishTime>
+    </File>
+    <File Include="Viewer/DeleteAccount.aspx">
+      <publishTime>04/24/2015 16:42:57</publishTime>
+    </File>
+    <File Include="Viewer/SearchProjects.aspx">
+      <publishTime>04/24/2015 16:56:29</publishTime>
+    </File>
+    <File Include="Viewer/UpdateViewerProfile.aspx">
+      <publishTime>04/24/2015 16:55:36</publishTime>
+    </File>
+    <File Include="Viewer/Viewer.Master">
+      <publishTime>04/26/2015 00:05:17</publishTime>
+    </File>
+    <File Include="Viewer/ViewerHome.aspx">
+      <publishTime>04/24/2015 16:54:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/03/2015 13:39:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

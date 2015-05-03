@@ -1,0 +1,16 @@
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\bin\Thesis-project Repository.dll
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\bin\Thesis-project Repository.pdb
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\bin\Newtonsoft.Json.Net20.dll
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\bin\Newtonsoft.Json.Net20.xml
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\obj\Release\Thesis-project Repository.dll
+D:\Users\it4850109\Documents\Visual Studio 2012\Thesis-project-repository\Thesis-project Repository\obj\Release\Thesis-project Repository.pdb
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Thesis-project Repository.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Thesis-project Repository.pdb
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\FiftyOne.Foundation.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Newtonsoft.Json.Net20.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Newtonsoft.Json.Net20.xml
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\obj\Release\Thesis-project Repository.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\obj\Release\Thesis-project Repository.pdb
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Users\it4850109\Desktop\HandsOn\Thesis-project Repository\bin\Microsoft.AspNet.FriendlyUrls.xml
